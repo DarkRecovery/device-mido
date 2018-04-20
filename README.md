@@ -1,4 +1,10 @@
- TWRP device configuration for Xiaomi Redmi Note 4 & 4x (Mido)
+
+-----------------------------------------------------------------------
+* **Source**:- [https://github.com/TeamWin/android_device_xiaomi_mido](https://github.com/TeamWin/android_device_xiaomi_mido)
+-----------------------------------------------------------------------
+
+
+Device configuration for Xiaomi Redmi Note 4 & 4x (Mido)
 =============================
 
  Spec Sheet
