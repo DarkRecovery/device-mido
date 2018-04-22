@@ -4,7 +4,7 @@
 -----------------------------------------------------------------------
 
 
-Device configuration for Xiaomi Redmi Note 4 & 4x (Mido)
+Xiaomi Redmi Note 4 & 4x (Mido)
 =============================
 
  Spec Sheet
